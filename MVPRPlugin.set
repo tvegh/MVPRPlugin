@@ -1,0 +1,12 @@
+MVPRPlugin
+1|Enable|enableBool
+1|Always On|alwaysOn
+1|OVMPR|omvprBool
+5|Background Opacity|bgOpacity|0|255
+5|Background Width|bgWidth|0|500
+5|Background Height|bgHeight|0|500
+4|X Position %|bgX|0.0|100.0
+4|Y Position %|bgY|0.0|100.0
+8|
+9|plugin made by TeaBoneJones
+9|If you wanna support me: paypal - tyler@azchoppercam.com
